@@ -1,3 +1,4 @@
+// Copyright 2021 NNTU-CS
 
 void SortAlgo(int* data, int lenD) {
   int j = 0;
